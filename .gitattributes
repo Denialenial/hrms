@@ -8,4 +8,4 @@
 *.html text eol=lf
 
 # Ignore node_modules directory
-node_modules/ -text
+backend/node_modules/ -text
