@@ -4,4 +4,3 @@
 *.css text eol=lf
 *.html text eol=lf
 backend/node_modules/ -text
-denialcoding/node_modules/ -text
